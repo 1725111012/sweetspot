@@ -1,2 +1,2 @@
-# shugarpop_sd2026
+# sweetspot
 Sistema web interactivo de agendamiento y catálogo visual para el sevicio de cattering (barras de dulces moviles para eventos )
